@@ -22,7 +22,7 @@ sidebar:
         level: Professional
 
       - idiom: German
-        level: Professional
+        level: Lower
 
     interests:
       - item: computing
@@ -36,7 +36,7 @@ sidebar:
 
 
 education:
-    - degree: Not yet
+    - degree: NOT YET
       university: Ionian University
       time: 2019 - Today
       details: computer sciense 
@@ -46,7 +46,7 @@ skills:
 
     toolset:
       - name: Scratch & Word & Excel & Power Point & google docks
-        level: 93%
+        level: 80%
 
       - name: Audacity & Photoshop 
         level: 75%
